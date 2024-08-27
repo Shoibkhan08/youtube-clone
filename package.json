@@ -2,6 +2,7 @@
   "name": "youtube-clone",
   "private": true,
   "version": "0.0.0",
+    "homepage": "http://Shoibkhan08.com/youtube-clone",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,6 +16,7 @@
     "@fontsource/roboto": "^5.0.8",
     "@mui/icons-material": "^5.15.0",
     "@mui/material": "^5.15.0",
+    "gh-pages":"^18.2.0",
     "@mui/styled-engine-sc": "^6.0.0-alpha.8",
     "axios": "^1.6.2",
     "babel-plugin-macros": "^3.1.0",
